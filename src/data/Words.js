@@ -1,0 +1,15 @@
+export const wordsList = {
+    Carro: ["Motor", "Capô", "Porta", "Marcha", "Pneu", "Volante", "Retrovisor", "Freio", "Câmbio", "Farol", "Buzina", "Vidro", "Cinto", "Radiador", "Suspensão"],
+    Fruta: ["Banana", "Maçã", "Pera", "Tangerina", "Abacaxi", "Uva", "Morango", "Melancia", "Goiaba", "Caju", "Manga", "Limão", "Ameixa", "Jabuticaba", "Carambola"],
+    Corpo: ["Orelha", "Nariz", "Dedão", "Braço", "Cabelo", "Perna", "Olho", "Barriga", "Língua", "Cotovelo", "Joelho", "Tornozelo", "Cabeça", "Pescoço", "Coxa"],
+    Computador: ["Mouse", "Monitor", "Teclado", "Processador", "Led", "Placa-mãe", "Memória", "HD", "Fonte", "Gabinete", "Cooler", "SSD", "GPU", "Wi-Fi", "Ethernet"],
+    Animal: ["Cachorro", "Gato", "Cavalo", "Rolinha", "Orangutango", "Elefante", "Leão", "Girafa", "Panda", "Tartaruga", "Gorila", "Canguru", "Esquilo", "Pinguim", "Polvo"],
+    nime: ["Tokyo Ghoul", "Akashic Records", "One Piece", "Naruto", "Dragon Ball", "Attack on Titan", "Death Note", "Bleach", "My Hero Academia", "Fullmetal Alchemist", "One Punch Man", "Hunter x Hunter", "Nanatsu no Taizai", "Fairy Tail", "Sword Art Online"],
+    Esporte: ["Futebol", "Basquete", "Tênis", "Natação", "Vôlei", "Ginástica", "Boxe", "Surfe", "Ciclismo", "Golfe", "Handebol", "Atletismo", "Rugby", "Hóquei", "Skate"],
+    País: ["Brasil", "Estados Unidos", "França", "Japão", "Austrália", "Itália", "Alemanha", "Canadá", "Índia", "China", "Espanha", "Inglaterra", "México", "Argentina", "Rússia"],
+    Profissão: ["Médico", "Professor", "Engenheiro", "Advogado", "Programador", "Arquiteto", "Enfermeiro", "Policial", "Jornalista", "Chef", "Piloto", "Bombeiro", "Designer", "Farmacêutico", "Psicólogo"],
+    Comida: ["Pizza", "Hambúrguer", "Sushi", "Lasanha", "Chocolate", "Churrasco", "Pasta", "Salada", "Sorvete", "Cupcake", "Panqueca", "Sopa", "Torta", "Esfiha", "Risoto"],
+    Instrumento: ["Violão", "Piano", "Bateria", "Violino", "Flauta", "Saxofone", "Trompete", "Contrabaixo", "Harpa", "Cajón", "Cavaquinho", "Guitarra", "Órgão", "Tamborim", "Gaita"],
+    Estação_do_Ano: ["Verão", "Outono", "Inverno", "Primavera", "Outono", "Inverno", "Primavera", "Verão", "Verão", "Inverno", "Primavera", "Outono", "Inverno", "Primavera", "Verão"],
+    Planeta: ["Terra", "Marte", "Júpiter", "Vênus", "Netuno", "Saturno", "Urano", "Mercúrio", "Plutão", "Netuno", "Meteoro", "Lua", "Sol", "Estrela", "Cometa"],
+  };
